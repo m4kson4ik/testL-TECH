@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApplicationL-TECH</string>
+    <string name="Logintoyouraccount">Log in to your account</string>
+    <string name="NumberPhone">Number Phone</string>
+    <string name="EnterNumber">Enter your phone number</string>
+    <string name="Password">Password</string>
+    <string name="EnterPassword">Enter Password</string>
+    <string name="logIn">logIn</string>
+    <string name="NewsFeed">News Feed</string>
+    <string name="Updating">Updating</string>
+    <string name="ServerSorted">Server Sorted</string>
+    <string name="SortedDate">Sorted Date</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplicationL-TECH</string>
+    <string name="Logintoyouraccount">Вход в аккаунт</string>
+    <string name="NumberPhone">Телефон</string>
+    <string name="EnterNumber">Введите телефон</string>
+    <string name="Password">Пароль</string>
+    <string name="EnterPassword">Введите пароль</string>
+    <string name="logIn">Войти</string>
+    <string name="NewsFeed">Лента новостей</string>
+    <string name="Updating">Обновление</string>
+    <string name="ServerSorted">Серверная сортировка</string>
+    <string name="SortedDate">Сортировка по дате</string>
+</resources>
